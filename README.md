@@ -1,16 +1,15 @@
-##  Olá, meu nome é Jucileia.
+### 🙋🏻‍♀️ Olá, meu nome é { Jucileia }. Estou em transição de carreira e focada em <strong>Front-end</strong>
 
-  <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
-  
-  <a href="mailto:jucileiasantossilva87@gmail.com?subject=Assunto">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:nathifrancisca@gmail.com?subject=Assunto)</a>
-  <a href=" https://www.linkedin.com/in/jucileia-dos-santos-silva-465224212/">![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) </a>
- 
-  
 ---
 
 ### 👩🏻‍💻 **Sobre mim:**
 
-- :mortar_board: Estudante de Engenharia de Computação - UNIVESP.
+- 👩🏻‍🎓 Estudante de Engenharia de Computação - UNIVESP.
+- 📚 Estudante de Coreano.
+- 🏐 Jogadora de Vôlei.
+
+  <a href=" https://www.linkedin.com/in/jucileia-dos-santos-silva-465224212/">![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) </a>
+   <a href="mailto:jucileiasantossilva87@gmail.com?subject=Assunto">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:jucileiasantossilva87@gmail.com?subject=Assunto)</a>
 
 ---
 
