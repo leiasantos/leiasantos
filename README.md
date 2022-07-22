@@ -3,8 +3,6 @@
 ---
 
 ### 👩🏻‍💻 **Sobre mim:**
-
-- 👩🏻‍🎓 Estudante de Engenharia de Computação - UNIVESP.
 - 📚 Estudante de Coreano.
 - 🏐 Jogadora de Vôlei.
 
