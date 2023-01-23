@@ -21,4 +21,4 @@
   
  ### 💻 Most Used Languages:
  
- ![GithubLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=leiasantos&theme=blue-green)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leiasantos&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
