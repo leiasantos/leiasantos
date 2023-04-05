@@ -1,4 +1,4 @@
-### 🙋🏻‍♀️ Olá, meu nome é { Jucileia }. Estou em transição de carreira e focada em <strong>Front-end</strong>
+### 🙋🏻‍♀️ Olá, meu nome é { Jucileia }. Estou em transição de carreira e focada em <strong>Front-end / Java</strong>
 
 ---
 
