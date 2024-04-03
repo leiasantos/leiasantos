@@ -2,10 +2,10 @@
 
 ---
 
-### 👩🏻‍💻 **Sobre mim:**
+### 👩🏻‍💻 **Sobre mim:** 🫰
 - Estudando Engenharia da computação
-- 📚 Estudante de Coreano.
-- 🏐 Jogadora de Vôlei.
+- 📚 🇰🇷 Estudante de Coreano.
+
 
   <a href="https://www.linkedin.com/in/jucileia-dos-santos-silva-465224212/">![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) </a>
    <a href="mailto:jucileiasantossilva87@gmail.com?subject=Assunto">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:jucileiasantossilva87@gmail.com?subject=Assunto)</a>
