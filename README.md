@@ -24,7 +24,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leiasantos&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<iframe src="https://giphy.com/embed/LHZyixOnHwDDy" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computer-working-cat-LHZyixOnHwDDy">via GIPHY</a></p>
 
-
-<img src="<iframe src="https://giphy.com/embed/LHZyixOnHwDDy" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computer-working-cat-LHZyixOnHwDDy">via GIPHY</a></p>">
