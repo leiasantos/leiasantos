@@ -4,7 +4,8 @@
 
 ### 👩🏻‍💻 **Sobre mim:** 🫰
 - Estudando Engenharia da computação
-- 📚 🇰🇷 Estudante de Coreano.
+- 📚 ![image](https://github.com/leiasantos/leiasantos/assets/57420848/b0c9abd3-8082-47fd-86fb-1afd6a0a606d)
+ Estudante de Coreano.
 
 
   <a href="https://www.linkedin.com/in/jucileia-dos-santos-silva-465224212/">![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) </a>
